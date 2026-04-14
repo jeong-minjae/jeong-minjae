@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Minjae%20Github&fontSize=60&animation=twinkling" />
+</div>
 
-<!--
-**jeong-minjae/jeong-minjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>문제를 해결하는 개발자 정민재입니다.</h2>
+  <p>문제를 발견하고 결과물로 구현해내며, 서비스의 가치를 높이는 개발자로 성장하고 있습니다.</p>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>🛠️ Tech Stacks</h2>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🚀 Projects</h2>
+</div>
+
+<div align="center">
+
+📌 한강 주차장 남은 자리 예측 프로젝트  
+📌 Flutter 기반 쇼핑 앱 (Team Project Shoes)  
+📌 데이터 분석 및 머신러닝 프로젝트  
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📫 Contact</h2>
+</div>
+
+<div align="center">
+  <a href="https://www.notion.so/2e041a7f669a8057b9fcca83da298dea">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+</div>
