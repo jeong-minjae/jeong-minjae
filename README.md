@@ -47,9 +47,7 @@
 
 <div align="center">
 
-📌 한강 주차장 남은 자리 예측 프로젝트  
-📌 Flutter 기반 쇼핑 앱 (Team Project Shoes)  
-📌 데이터 분석 및 머신러닝 프로젝트  
+<!-- 여기에 나중에 프로젝트 추가 -->
 
 </div>
 
