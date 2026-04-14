@@ -52,12 +52,9 @@
 
 <div align="center">
 
-<!-- 나중에 프로젝트 링크 추가 -->
-<!-- 예시
-<a href="https://github.com/jeong-minjae/thejoeun-flutter">
-  <img src="https://img.shields.io/badge/Flutter_Project-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<a href="https://github.com/jeong-minjae/todolist_project">
+  <img src="https://img.shields.io/badge/TodoList_Project-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </a>
--->
 
 </div>
 
@@ -69,12 +66,13 @@
 
 <div align="center">
 
-<!-- 나중에 프로젝트 링크 추가 -->
-<!-- 예시
-<a href="https://github.com/jeong-minjae/thejoeun-ml">
+<a href="https://github.com/jeong-minjae/MLProJect">
   <img src="https://img.shields.io/badge/ML_Project-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </a>
--->
+
+<a href="https://github.com/jeong-minjae/ddeockseom">
+  <img src="https://img.shields.io/badge/Parking_Prediction-FF6F00?style=flat-square&logo=GoogleMaps&logoColor=white"/>
+</a>
 
 </div>
 
