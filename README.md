@@ -22,7 +22,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 <br/>
@@ -42,12 +43,38 @@
 <br/>
 
 <div align="center">
-  <h2>🚀 Projects</h2>
+  <h2>📂 TheJoeun Academy</h2>
+</div>
+
+<div align="center">
+  <h3>💻 App Development</h3>
 </div>
 
 <div align="center">
 
-<!-- 여기에 나중에 프로젝트 추가 -->
+<!-- 나중에 프로젝트 링크 추가 -->
+<!-- 예시
+<a href="https://github.com/jeong-minjae/thejoeun-flutter">
+  <img src="https://img.shields.io/badge/Flutter_Project-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</a>
+-->
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🤖 Data / AI</h3>
+</div>
+
+<div align="center">
+
+<!-- 나중에 프로젝트 링크 추가 -->
+<!-- 예시
+<a href="https://github.com/jeong-minjae/thejoeun-ml">
+  <img src="https://img.shields.io/badge/ML_Project-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</a>
+-->
 
 </div>
 
